@@ -48,7 +48,7 @@ pre{
 #img1{
     box-shadow: inset 0px 9px 15px rgba(0, 0, 0, 0.39);
     position: relative;
-    background-image: url('https://www.portaldoholanda.com.br/sites/default/files/imagecache/2020_noticia_fotogrande/portaldoholanda-ladybug-3475779640-1098382.jpg');
+    background-image: url('../images/fotoflor.jpg');
     height: 450px;
     background-size: cover;
     background-attachment: fixed;
