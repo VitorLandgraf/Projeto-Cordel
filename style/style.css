@@ -57,7 +57,7 @@ pre{
 #img2{
     box-shadow: inset 0px 9px 15px rgba(0, 0, 0, 0.39);
     position: relative;
-    background-image: url('http://www.taugor.com.br/wp-content/uploads/2018/05/reconhecimento-de-manuscrita--676x380.jpg');
+    background-image: url('../images/manuscrito.jpg');
     height: 450px;
     background-size: cover;
     background-attachment: fixed;
